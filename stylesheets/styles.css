@@ -189,10 +189,10 @@ hr {
 }
 
 footer {
-  width:270px;
+  width:250px;
   float:left;
   position:fixed;
-  bottom:2px;
+  bottom:0.5px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
