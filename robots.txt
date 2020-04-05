@@ -8,6 +8,11 @@ User-agent: YodaoBot
 Disallow: /
 User-agent: Googlebot
 Disallow: /
+Disallow: .jpg$
+Disallow: .jpeg$
+Disallow: .gif$
+Disallow: .png$
+Disallow: .bmp$
 User-agent: Bingbot
 Disallow: /
 User-agent: Slurp
